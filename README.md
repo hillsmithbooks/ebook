@@ -10,5 +10,5 @@ Bookshelf of freely available ebooks written by Hill Smith.
 
 <h2>Hungarian books - Magyar nyelvű írások</h2>
 
-<h3>Bőségidők</h3>
+<h3><a href="https://github.com/hillsmithbooks/ebook/raw/refs/heads/main/ebooks/bosegidok_hu.epub">Bőségidők</a></h3>
 <p>Novella a világ változásaira adható egyéni válaszokról, útkeresésről és reményről.</p>
