@@ -2,6 +2,8 @@
 
 Bookshelf of freely available ebooks written by Hill Smith.
 
+Please consider the use of an E-book reader for best reading experience. I recommend Foliate on Linux and Lithium on Android.
+
 <h2>English books</h2>
 
 <h3>Times of Plenty</h3>
