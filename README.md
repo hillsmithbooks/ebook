@@ -2,7 +2,7 @@
 
 Here you can find freely available ebooks written by Hill Smith.
 
-Please consider the use of an e-book reader for best reading experience. I recommend Foliate on Linux and Lithium on Android. Free e-book readers as Browser extensions are also available.
+Please consider the use of an e-book reader for best reading experience. I recommend _Foliate_ on Linux and _Lithium_ on Android. Free e-book readers as Browser extensions are also available.
 
 <h2>English books</h2>
 
